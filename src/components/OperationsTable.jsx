@@ -65,7 +65,7 @@ const OperationsTable = () => {
 
     return (
     <>
-        <Table dataSource={dataSource} columns={columns} size="small" />;
+        <Table dataSource={dataSource} columns={columns} size="small" />
     </>)
 }
 
